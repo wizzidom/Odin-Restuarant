@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    color : white;
+    background: black;
+}
+nav button{
+    padding: 8px;
+    margin: 0px 10px ;
+    background-color: lawngreen;
+}
+.home{
+    background-color: rgba(255,255,255,0.5);
+    text-align: center;
+
+
+}
+
+.home img{
+    width: 100%;
+}
+.menu{
+    background-color: aqua;
+}
